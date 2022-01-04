@@ -1,0 +1,74 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$QOwvN8YQTyNpAvwWZLNg23$pfFrW5vNMDXcA7k0oGKQy50QNmn/ibFycIXMxKbxM58=",
+        "last_login": "2022-01-03T11:16:26.497Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@admin.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-01-03T01:50:11.978Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$EV4oiRsvyz4UZPzrGpdSH2$a/+Xky5OxjDp2EBcO/rXvObanhkMf1MEJHJDeF5M4OY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "houmer1",
+        "first_name": "",
+        "last_name": "",
+        "email": "houmer1@houm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-03T13:22:46.140Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$ePm8Y2Ee4PntCJUWga7p1u$2GP5H99UG66xOlXcvVYPy/hNjXqLXDNwaWjsh4KKpgE=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "houmer2",
+        "first_name": "",
+        "last_name": "",
+        "email": "houmer2@houm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-03T13:22:55.693Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$AQPecdredHUMJFYzQ1YLCP$FJ5qDRKK8Nt1z2wny4pTqH7Hn+BAtlQ0/dcPLT69bOU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "houmer3",
+        "first_name": "",
+        "last_name": "",
+        "email": "houmer3@houm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-03T13:23:05.292Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

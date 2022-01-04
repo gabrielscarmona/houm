@@ -1,0 +1,38 @@
+[
+{
+    "model": "challenge.realestate",
+    "pk": 1,
+    "fields": {
+        "address": "Araoz 1458",
+        "area": 100,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.realestate",
+    "pk": 2,
+    "fields": {
+        "address": "Oro 2305",
+        "area": 220,
+        "geom": "SRID=4326;POINT (-58.4259820523858 -34.581377735346)"
+    }
+},
+{
+    "model": "challenge.realestate",
+    "pk": 3,
+    "fields": {
+        "address": "Linch 3914",
+        "area": 330,
+        "geom": "SRID=4326;POINT (-58.4259820523858 -34.581377735346)"
+    }
+},
+{
+    "model": "challenge.realestate",
+    "pk": 4,
+    "fields": {
+        "address": "Villaroel 1093",
+        "area": 130,
+        "geom": "SRID=4326;POINT (-58.4259820523858 -34.581377735346)"
+    }
+}
+]
