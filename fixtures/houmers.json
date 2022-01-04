@@ -1,0 +1,30 @@
+[
+{
+    "model": "challenge.houmer",
+    "pk": 1,
+    "fields": {
+        "user": 1
+    }
+},
+{
+    "model": "challenge.houmer",
+    "pk": 2,
+    "fields": {
+        "user": 2
+    }
+},
+{
+    "model": "challenge.houmer",
+    "pk": 3,
+    "fields": {
+        "user": 3
+    }
+},
+{
+    "model": "challenge.houmer",
+    "pk": 4,
+    "fields": {
+        "user": 4
+    }
+}
+]

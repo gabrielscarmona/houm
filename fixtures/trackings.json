@@ -1,0 +1,494 @@
+[
+{
+    "model": "challenge.tracking",
+    "pk": 34,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T15:16:08.953Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 10,
+        "geom": "SRID=4326;POINT (-58.38161 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 35,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T15:17:14.165Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 10,
+        "geom": "SRID=4326;POINT (-58.38164 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 36,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T15:17:18.085Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 10,
+        "geom": "SRID=4326;POINT (-58.38164 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 37,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T15:17:24.844Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 10,
+        "geom": "SRID=4326;POINT (-58.3817 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 38,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T15:17:26.187Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 10,
+        "geom": "SRID=4326;POINT (-58.38171 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 39,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:25:34.410Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38171 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 72,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:27:53.704Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38171 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 73,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:29:37.710Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38172 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 74,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:29:44.707Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": -1,
+        "geom": "SRID=4326;POINT (-58.38174 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 105,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:30:45.579Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38174 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 106,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:31:19.456Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38175 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 107,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:31:33.937Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.38175 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 108,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:31:59.357Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 3,
+        "geom": "SRID=4326;POINT (-58.38195 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 109,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:32:15.222Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 11,
+        "geom": "SRID=4326;POINT (-58.3815 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 110,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:32:28.603Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 12,
+        "geom": "SRID=4326;POINT (-58.3819 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 111,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T16:32:37.567Z",
+        "real_estate": 4,
+        "duration": 0,
+        "speed": 362,
+        "geom": "SRID=4326;POINT (-58.39 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 112,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T17:11:32.636Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.39 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 113,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T17:12:23.682Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 39,
+        "geom": "SRID=4326;POINT (-58.395 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 114,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T17:12:35.033Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 18,
+        "geom": "SRID=4326;POINT (-58.3955 -34.60387)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 115,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T17:13:52.208Z",
+        "real_estate": 1,
+        "duration": 0,
+        "speed": 160,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 182,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:04:12.300Z",
+        "real_estate": 1,
+        "duration": 3020,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 183,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:04:27.356Z",
+        "real_estate": 1,
+        "duration": 15,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 184,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:04:36.534Z",
+        "real_estate": 1,
+        "duration": 9,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 185,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:05:40.658Z",
+        "real_estate": 1,
+        "duration": 64,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.4256879365174 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 186,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:05:49.989Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 3193,
+        "geom": "SRID=4326;POINT (-58.5 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 187,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:05:59.049Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.5 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 188,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:06:05.994Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.5 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 189,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:06:21.997Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.5 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 190,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:06:44.879Z",
+        "real_estate": 1,
+        "duration": 0,
+        "speed": 1304,
+        "geom": "SRID=4326;POINT (-58.4256 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 191,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:06:57.393Z",
+        "real_estate": 1,
+        "duration": 12,
+        "speed": 3,
+        "geom": "SRID=4326;POINT (-58.425687 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 192,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:07:05.922Z",
+        "real_estate": 1,
+        "duration": 8,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425689 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 193,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:26:40.322Z",
+        "real_estate": 1,
+        "duration": 1174,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425689 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 194,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:26:50.242Z",
+        "real_estate": 1,
+        "duration": 9,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425689 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 195,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T18:27:07.534Z",
+        "real_estate": 1,
+        "duration": 17,
+        "speed": 2,
+        "geom": "SRID=4326;POINT (-58.425789 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 196,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:40:12.583Z",
+        "real_estate": 1,
+        "duration": 11585,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425789 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 229,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:41:06.282Z",
+        "real_estate": 1,
+        "duration": 53,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425789 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 230,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:47:00.344Z",
+        "real_estate": 1,
+        "duration": 354,
+        "speed": 0,
+        "geom": "SRID=4326;POINT (-58.425789 -34.5923050897605)"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 231,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:47:05.198Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 5306752,
+        "geom": "SRID=4326;POINT EMPTY"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 232,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:53:21.426Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT EMPTY"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 233,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T21:53:41.035Z",
+        "real_estate": null,
+        "duration": 0,
+        "speed": 0,
+        "geom": "SRID=4326;POINT EMPTY"
+    }
+},
+{
+    "model": "challenge.tracking",
+    "pk": 234,
+    "fields": {
+        "user": 2,
+        "created": "2022-01-03T22:21:27.874Z",
+        "real_estate": 1,
+        "duration": 0,
+        "speed": 15452,
+        "geom": "SRID=4326;POINT (-58.425789 -34.5923050897605)"
+    }
+}
+]
